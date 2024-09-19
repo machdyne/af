@@ -2,9 +2,15 @@
  * Koch Case
  * Copyright (c) 2024 Lone Dynamics Corporation. All rights reserved.
  *
- * required hardware:
+ * required hardware (stand alone):
  *  - 4 x M3 x 20mm countersunk bolts
  *  - 4 x M3 nuts
+ * 
+ * required hardware (rail mount):
+ *  - 2 x M3 x 20mm countersunk bolts
+ *  - 2 x M3 x 25mm countersunk bolts
+ *  - 2 x M3 nuts
+ *  - 2 x M3 T-nuts
  *
  */
 
