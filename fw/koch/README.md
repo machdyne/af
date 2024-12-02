@@ -4,9 +4,7 @@ Koch is the autofeeder system controller PCB for the [Machdyne AF](https://githu
 
 This firmwire provides a minimal G-code compatible interface over the USB port that can be driven by an OpenPnP GcodeDriver.
 
-Each feeder has an 1-byte ID, which is set when the firmware is built.
-
-The firmware expects a single motor connected to MOT1 and MOT2 on the Essen PCB.
+Each feeder has an 1-byte ID, which is set when the Essen firmware is built.
 
 ## Building
 
