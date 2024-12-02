@@ -18,7 +18,7 @@ The system uses two custom printed circuit board designs. An autofeeder controll
 | Model | Image | Description |
 | ----- | ----- | ----------- |
 | [af](3d/stl/af.stl) | ![af](3d/img/af.png) | The autofeeder body guides the tape and holds the Essen PCB in place |
-| [af_sprocket](3d/stl/sprocket.stl) | ![af](3d/img/af_sprocket.png) | The sprocket advances the tape |
+| [af_sprocket](3d/stl/af_sprocket.stl) | ![af](3d/img/af_sprocket.png) | The sprocket advances the tape |
 | [af_motor_lock](3d/stl/af_motor_lock.stl) | ![af_motor_lock](3d/img/af_motor_lock.png) | The motor lock holds the motor in place |
 | [af_blade](3d/stl/af_blade.stl) | ![af_blade](3d/img/af_blade.png) | The blade partially peels the clear film from the top of the tape to the side |
 | [af_led_block](3d/stl/af_led_block.stl) | ![af_led_block](3d/img/af_led_block.png) | The LED block holds the LED in place |
