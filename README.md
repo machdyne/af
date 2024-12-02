@@ -10,8 +10,8 @@ The autofeeders can be chained together with 4 wires and communicate with the sy
 
 The system uses two custom printed circuit board designs. An autofeeder controller PCB (Essen) includes the tape detection and motor driver circuitry for each autofeeder. A system controller PCB (Koch) provides power and allows a chain of feeders to communicate with the OpenPnP software over a USB-C port.
 
-[^1] This project is still under development and is not yet suitable for use in production.
-[^2] While the PCB has an array of six phototransistors, the firmware is currently using only one.
+[^1]: This project is still under development and is not yet suitable for use in production.
+[^2]: While the PCB has an array of six phototransistors, the firmware is currently using only one.
 
 ## Autofeeder 3D parts (AF1)
 
